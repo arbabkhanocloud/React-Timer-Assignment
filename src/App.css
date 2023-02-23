@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url("https://media.istockphoto.com/id/1314581433/photo/woman-holding-red-alarm-clock-in-her-hand-on-blue-background-closeup.jpg?b=1&s=170667a&w=0&k=20&c=yvrwrV53kkCcGxIAcK-SZlbVlDnjErd1aN0_wlXlu-Q=") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: left;
+}
+
+.timer-title {
+
+  margin-top: 90px;
+  margin-bottom: 00px;
+  font-size: 100px;
+  color: #6651ef;
+  font-family: 'Bigelow Rules';
+}
+.App{
+  margin-left: 24%;
+}
